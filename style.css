@@ -1,0 +1,299 @@
+body{
+    background-color:rgb(235, 235, 235);
+}
+.navbar{
+    background-color: #316DC3 !important;
+    padding: 2px;
+    
+}
+*  {
+    margin: 0px;
+    
+}
+.navbar ul{
+    overflow:auto;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 13px;
+}
+.right{
+    margin-left: 70px;
+}
+.navbar ul p{
+    margin: 14px 353px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Open Sans', sans-serif; 
+}
+.but_ton{
+    float: right;
+    margin: 10px 86px;
+    padding: 0px 14px;  
+}
+.but_ton button{
+    margin: 0px 3px;
+    padding: 3px;
+    color: #7788998f; 
+}
+.homebar{
+    background-color:rgb(255, 255, 255);
+    
+}
+.homebar li{
+    float: right;
+    list-style: none;
+    margin: 28px 20px;
+    font-size: 16px;
+    
+}
+#left{
+    margin-right: 150px;
+}
+
+.homebar ul{
+    overflow: auto;
+}
+#hov:hover{
+    background-color: #316DC3 !important;
+    border-radius: 9px;
+    padding: 10px 10px ;
+   
+} 
+.homebar li a{
+    text-decoration: none;
+   color: black  
+}
+#logo{
+    position: absolute;
+    top: 56px;
+    left:130px ;
+}
+h1{
+    text-align: center;  
+    
+    color:  #316DC3 !important;
+}
+.intro{
+    margin-top  : 60px;
+    text-align: center;  
+    color:  #316DC3 !important;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif; 
+    background-color: rgb(235, 235, 235);;
+}
+.favicon{
+    
+    background-color: rgb(235, 235, 235);;
+}
+.para{
+   text-align:  justify;
+   line-height: 1.7em;
+    padding-left: 200px ;
+    padding-right: 200px;
+    color: lightslategray;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 15px;
+    
+    background-color: rgb(235, 235, 235);;
+    
+    
+}
+.blue{
+    background-color: rgb(27, 27, 190)  ;
+    height: 250px;
+    width: 330px;
+    display: inline-block;
+    margin-top: 10px;
+    
+    
+}
+.blue p {
+    
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-style:bold;
+    font-family: 'Open Sans', sans-serif; 
+    line-height: 1.5em;
+
+}
+#bluebox{
+    padding-block-start: 65px;
+}
+.what{
+    margin-top: 60px;
+}
+.online_sadqa{
+    height: 180px;
+    width: 350px;
+    background-color:white;
+    margin: 32px 15px 50px 110px;
+    display: inline-block;
+    color: #316DC3 !important;
+    line-height: 1.8em;
+    font-size: 20px;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+
+    
+}
+.welfare{
+    height: 180px;
+    width: 350px;
+    background-color:white;
+    margin:30px 0px 0px 8px;
+    display: inline-block;
+    color: #316DC3 !important;
+    line-height: 1.8em;
+    font-size: 20px;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+
+    
+
+}
+.medical{
+    height: 180px;
+    width: 350px;
+    background-color:white;
+    margin: 50px 21px ;
+    display: inline-block;
+    color: #316DC3 !important;
+    line-height: 1.8em;
+    font-size: 20px;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+
+}
+.dastarkhan{
+    height: 180px;
+    width: 350px;
+    background-color: white;
+    margin: 32px 15px 50px 110px;
+    display: inline-block;
+    color: #316DC3 !important;
+    line-height: 1.8em;
+    font-size: 20px;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+
+}
+.RO_PLANT{
+    height: 180px;
+    width: 350px;
+    background-color:white;
+    margin:30px 0px 0px 8px;
+    display: inline-block;
+    color: #316DC3 !important;
+    line-height: 1.8em;
+    font-size: 20px;
+
+    box-shadow: 0 7px 20px 1px lightslategrey;
+}
+.education{
+    height: 180px;
+    width: 350px;
+    background-color: white;
+    margin: 50px 21px ;
+    display: inline-block;
+    color: #316DC3 !important;
+    line-height: 1.8em;
+    font-size: 20px;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+}
+#imgbox{
+    padding-block-start: 50px;
+
+}
+.upcomming{
+    background-color: rgb(235, 235, 235);
+    padding: 10px ;
+    font-size: 30px;
+    text-align: center;
+    color: #316DC3;
+    text-shadow: 0  4px 3px rgb(137, 174, 226); 
+
+
+}
+.hepa{
+    height: 64px;
+    width: 350px;
+    background-color:white;
+    margin: 50px 270px;
+    font-size: 20px;
+    padding-block-start: 16px;
+    display: inline-block;
+    color: #316DC3;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+    
+}
+#hepa{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.housing{
+    height: 64px;
+    width: 350px;
+    background-color: white;
+    margin: 50px -235px;
+    font-size: 20px;
+    padding-block-start: 16px;
+    display: inline-block;
+    color: #316DC3;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+    
+}
+.it{
+    height: 64px;
+    width: 350px;
+    background-color:white;
+    margin: 50px 270px;
+    font-size: 20px;
+    padding-block-start: 16px;
+    display: inline-block;
+    color: #316DC3;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+}
+.thar{
+    height: 64px;
+    width: 350px;
+    background-color: white;
+    margin: 50px -235px;
+    font-size: 20px;
+    padding-block-start: 16px;
+    display: inline-block;
+    color: #316DC3;
+    box-shadow: 0 7px 20px 1px lightslategrey;
+
+}
+.rashan{
+    display: inline-block;
+}
+.end{
+    background-color:  black;
+    color: lightgray;
+    height: 227px;
+    width: 350px;
+    margin: 65px 120px;
+    display: inline-block;
+    line-height: 1.7em;
+    font-size: 15px;
+    
+    font-family: 'Open Sans', sans-serif;
+}
+.ico{
+    background-color:  black;
+    color: lightgray;
+    height: 75px;
+    width: 290px;
+    margin: 0px 120px;
+    display: inline-block;
+    margin-top: 5px;
+
+}
+
+ 
+    
+
+
+
